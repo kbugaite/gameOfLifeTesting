@@ -1,0 +1,2 @@
+import { gameOfLifeChecker } from "./gameOfLife";
+
