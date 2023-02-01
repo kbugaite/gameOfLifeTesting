@@ -1,5 +1,5 @@
-function gameOfLifeChecker() {
-    return null;
+function gameOfLifeChecker(cell) {
+    return cell;
 }
 
 export { gameOfLifeChecker }
